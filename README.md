@@ -6,23 +6,27 @@ particually for OCR.
 
 Scripts By Category
 
-Geometry
+## Geometry
 
-Image  Effects
+## Image  Effects
 
-Brightness  Contrast
+## Brightness  Contrast
 
-Blur  Sharpen  Edge
+## Blur  Sharpen  Edge
 
-Color
+## Color
 
-Threshold  Segment
+## Threshold  Segment
 
-Noise  Addition  Removal
+## Noise  Addition  Removal
 
-Fourier  Transform
+ TEXTCLEANER 
+ TEXTDESKEW
+ 
+ 
+## Fourier  Transform
 
-Miscellaneous  Utilities
+## Miscellaneous  Utilities
 
 
 
